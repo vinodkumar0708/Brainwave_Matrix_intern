@@ -114,7 +114,7 @@
     // Set a timer to auto-click the button after 1 minute (60000 milliseconds)
     setTimeout(function() {
         document.getElementById("autoClickButton").click();
-    }, 8000);
+    }, 7000);
 </script>
 </body>
 </html>
